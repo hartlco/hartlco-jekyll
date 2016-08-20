@@ -4,8 +4,6 @@ layout: default
 
 <div class="home">
 
-  <h1 class="page-heading">Posts</h1>
-
   <ul class="post-list">
     {% for post in paginator.posts %}
       <li>
@@ -28,7 +26,7 @@ layout: default
   {% else %}
     <span class="previous">Previous</span>
   {% endif %}
-  <span class="page_number ">Page: {{ paginator.page }} of {{ paginator.total_pages }}</span>
+
   {% if paginator.next_page %}
     <a href="{{ paginator.next_page_path }}" class="next">Next</a>
   {% else %}
