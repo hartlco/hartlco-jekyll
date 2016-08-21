@@ -14,6 +14,4 @@ format: link
 ---
 Was für ein ausgezeichnetes Video zu einem meiner Lieblingsfilme. Der ganze Youtube-Kanal ist außerdem empfehlenswert.
 
- [Was für ein ausgezeichnetes Video zu einem meiner Lieblingsfilme. Der ganze Youtube-Kanal ist außerdem empfehlenswert.
-
-](https://youtu.be/CXZK0Binfk4)
+[Quelle](https://youtu.be/CXZK0Binfk4)
