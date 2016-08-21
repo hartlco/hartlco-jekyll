@@ -1,0 +1,74 @@
+==================================================================
+https://keybase.io/hartlco
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://hartl.co
+  * I am hartlco (https://keybase.io/hartlco) on keybase.
+  * I have a public key with fingerprint B3A4 35FF 9D40 E298 DE76  8598 5089 83EA 8843 A189
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "01014ecfa16545b23e51c2d3a1bc5d67c4436df5e7508bef9d387f13b8045f51524b0a",
+            "fingerprint": "b3a435ff9d40e298de768598508983ea8843a189",
+            "host": "keybase.io",
+            "key_id": "508983ea8843a189",
+            "kid": "01014ecfa16545b23e51c2d3a1bc5d67c4436df5e7508bef9d387f13b8045f51524b0a",
+            "uid": "e4def39d952732f709d3a5a5dd79c219",
+            "username": "hartlco"
+        },
+        "revoke": {
+            "sig_ids": [
+                "be8f16243fc3cc1d355a33dc83b4b86381ae572f0532ff91cba5ac1b87adbefb0f"
+            ]
+        },
+        "service": {
+            "hostname": "hartl.co",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1471781751,
+    "expire_in": 157680000,
+    "prev": "e402a7ebf7cc2f3aaa814a61ba511081420c4135769aea9543717e0f48258634",
+    "seqno": 6,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.56
+Comment: https://keybase.io/crypto
+
+yMJmAnicrZJbaBVHHMZPYjXxEEULXkK00Wkfip6EnZ2Z3dmDFHzoi5RGY4qFRk5n
+ZmeSJXH3uLvnxBAiomCl9VL6oOKt0gQFMRBES2OiSYMVShWDV1DJixIveAHR9iFi
+nD0o9KGP3ZfdHb7/7/vmm7kwa1oqXda67ey1XE15X9lfvz8rpNYNHOzoAjxwO0G2
+C7TJ0ku2uzKKc22eC7LAgAbEUigGLYIJN5EkUJguYpAL4lq2wBhZriLSJgblUjku
+oraCiFMDE0UgMTE3GMgA5fktMsyHnh9rLEcMI6K0HBvSdKgrbYsSh2qIQ5FklGJt
+QR092BpEyYQOx1kk671Ar+mfXCnef+j/59yFEk5iVyrkuA4xbWQq29B6RhhxXdsR
+Jkx8C5EMfbZBanUrC+N2EYDuDAhlMWiTSa2R16IzRyD7DeCSKmiZGCmBhIAuIoQh
+5AqKOObUQhQySWxTGUR7KQcKrr0E5NRmrs7KDQXWa7Y2LHqiBE9K+rd5vUhqyodB
+HIigPVmN43yUTRLFnflE1iF57h0gxz3f1cejJ4oyjLzAB1molSL2EiLENrQptAnM
+ALkp74Uy5yUKoo/M0E/iI4ulkgyT2ZIrWwhTIcYYhZhZUKeH0NDfpiEwRHrOYZI5
+BCMNlobC1CR61xgkW9roByBr6ZisRSN1aT6LC6EE3aMjzR+kytKpGdPLk2ubSs+c
+8/4yLwwrptiueQ9W7+ipPXCkal/1i8VvrphXpzeeWPLR/V3VfXsIOtdf+eupkZ45
+P9WeMWF1VdefFZXnhjPLrYmq7R++Hhrr/uTy50ut5XV7X3QOHV0ydenwk7T1cu2e
+dSurv+u7fqthYrx/x9MF+anFJ8YX3Rz7ue3YhbHn6UlRs7+ht78x27Ph68GJLwYr
+e+tGdpvx4FBD/ebnR/ceT28dlZl/1u9DC671NFT4N3qf/hY1vfKvbrkzPnvFLz9+
+W57bPL+wyh9+lDu96MvKGY8LNffqR499djAamGyWA9/PujdysWLLD8Wdqx896Xi4
+7O6h2vMtc5su1sE/VjX+PTmzefftvro1J4ebrk+d/Pirx5++BYToWf8=
+=8OIG
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/hartlco
+
+==================================================================
