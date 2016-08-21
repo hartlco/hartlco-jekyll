@@ -31,7 +31,6 @@ $on-laptop:        800px;
 .site-nav {
     font-size: 0.8rem;
     line-height: 80px;
-    padding-top:14px;
 }
 
 .site-title {
@@ -44,9 +43,19 @@ $on-laptop:        800px;
     border-bottom: 0px;
 }
 
+.description {
+    font-size: 0.8rem;
+    font-weight: 700;
+}
+
 /* Pagination */
 .next {
     float: right;
+}
+
+/* Posts */
+.post-list > li {
+    margin-bottom: 60px;
 }
 
 @include media-query($on-palm) {
