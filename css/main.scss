@@ -27,30 +27,41 @@ $content-width:    800px;
 $on-palm:          600px;
 $on-laptop:        800px;
 
-// Minima also includes a mixin for defining media queries.
-// Use media queries like this:
-@include media-query($on-palm) {
-    .site-nav {
-        border: 0px;
-
-        .page-link {
-            padding: 5px 10px;
-            margin-left:2px;
-            display: inline;
-        }
-    }
-}
-
 .site-nav {
     font-size: 0.8rem;
+    line-height: 80px;
+    padding-top:14px;
 }
 
 .site-title {
-    font-size: 3rem;
+    font-size: 3.2rem;
     font-weight: 700;
+    line-height: 80px;
+}
+
+.site-header {
+    border-bottom: 0px;
 }
 
 /* Pagination */
 .next {
     float: right;
+}
+
+@include media-query($on-palm) {
+    .site-nav {
+        border: 0px;
+        display:inline-block;
+        width:100%;
+        position: initial;
+        text-align: left;
+        line-height: 30px;
+        padding-top:0px;
+
+        .page-link {
+            padding: 1px 10px 1px 1px;
+            margin-left:0px;
+            display: inline;
+        }
+    }
 }
