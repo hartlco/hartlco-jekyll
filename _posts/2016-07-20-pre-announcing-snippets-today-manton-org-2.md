@@ -1,6 +1,6 @@
 ---
 id: 267
-title: 'Pre-announcing Snippets.today &#8211; manton.org'
+title: 'Pre-announcing Snippets.today - manton.org'
 date: 2016-07-20T20:12:06+00:00
 author: hartlco
 layout: post
