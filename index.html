@@ -7,11 +7,16 @@ layout: default
   <ul class="post-list">
     {% for post in paginator.posts %}
       <li>
-        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
-
-        <h2>
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title | escape }}</a>
-        </h2>
+        <a class="post-meta" href="{{ post.url | prepend: site.baseurl }}">{{ post.date | date: "%b %-d, %Y" }}</a>
+        {% if post.format != 'status' %}
+          <h2>
+          {% if post.linked_list_url != nil %}
+              <a class="post-link" href="{{ post.linked_list_url }}">{{ post.title | escape }}</a>
+          {% else %}
+              <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title | escape }}</a>
+          {% endif %}
+          </h2>
+        {% endif %}
         <div class="post-content">
           {{ post.content }}
         </div>
@@ -33,7 +38,5 @@ layout: default
     <span class="next ">Next</span>
   {% endif %}
 </div>
-
-  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
 
 </div>

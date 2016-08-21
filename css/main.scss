@@ -2,7 +2,8 @@
 # Only the main Sass file needs front matter (the dashes are enough)
 ---
 @charset "utf-8";
-
+// Import partials from the `minima` theme.
+@import "minima";
 // Our variables
 $base-font-family: -apple-system,"Helvetica Neue", Helvetica, Arial, sans-serif;
 $base-font-size:   16px;
@@ -28,15 +29,21 @@ $on-laptop:        800px;
 
 // Minima also includes a mixin for defining media queries.
 // Use media queries like this:
-// @include media-query($on-palm) {
-//     .wrapper {
-//         padding-right: $spacing-unit / 2;
-//         padding-left: $spacing-unit / 2;
-//     }
-// }
+@include media-query($on-palm) {
+    .site-nav {
+        border: 0px;
 
-// Import partials from the `minima` theme.
-@import "minima";
+        .page-link {
+            padding: 5px 10px;
+            margin-left:2px;
+            display: inline;
+        }
+    }
+}
+
+.site-nav {
+    font-size: 0.8rem;
+}
 
 .site-title {
     font-size: 3rem;
