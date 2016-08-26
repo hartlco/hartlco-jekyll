@@ -5,9 +5,9 @@
 // Our variables
 $base-font-family: -apple-system,"Helvetica Neue", Helvetica, Arial, sans-serif;
 $base-font-size:   16px;
-$base-font-weight: 400;
+$base-font-weight: 300;
 $small-font-size:  $base-font-size * 0.875;
-$base-line-height: 1.5;
+$base-line-height: 1.6;
 
 $spacing-unit:     30px;
 
@@ -27,6 +27,10 @@ $on-laptop:        800px;
 
 // Import partials from the `minima` theme.
 @import "minima";
+
+body {
+    font-size: 1.1rem;
+}
 
 .site-nav {
     font-size: 0.8rem;
@@ -59,6 +63,12 @@ $on-laptop:        800px;
 }
 
 @include media-query($on-palm) {
+
+    body {
+        font-size: 0.875rem;
+        line-height: 1.4rem;
+    }
+
     .site-nav {
         border: 0px;
         display:inline-block;
