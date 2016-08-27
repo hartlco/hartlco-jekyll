@@ -1,16 +1,13 @@
 ---
 id: 92
-title: 'The ethics of modern web ad-blocking &#8211; marco.org'
+title: 'The ethics of modern web ad-blocking - marco.org'
 date: 2015-08-11T08:13:04+00:00
-author: hartlco
+author: Martin Hartl
 layout: post
 guid: https://hartl.co/?p=92
 permalink: /2015/08/11/the-ethics-of-modern-web-ad-blocking/
-link:
-  - https://marco.org/2015/08/11/ad-blocking-ethics
-categories:
-  - Allgemein
-format: status
+linked_list_url: https://marco.org/2015/08/11/ad-blocking-ethics
+format: link
 ---
 Marco Arment:
 
