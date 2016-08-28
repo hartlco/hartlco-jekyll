@@ -6,10 +6,7 @@ author: hartlco
 layout: post
 guid: https://hartl.co/?p=246
 permalink: /2016/05/28/swift-and-dynamism/
-link:
-  - http://blog.wilshipley.com/2016/05/pimp-my-code-book-2-swift-and-dynamism.html?m=1
-categories:
-  - Allgemein
+linked_list_url: http://blog.wilshipley.com/2016/05/pimp-my-code-book-2-swift-and-dynamism.html?m=1
 ---
 Wil Shipley:
 
