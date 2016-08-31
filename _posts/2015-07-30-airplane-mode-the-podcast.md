@@ -6,11 +6,8 @@ author: hartlco
 layout: post
 guid: https://hartl.co/?p=165
 permalink: /2015/07/30/airplane-mode-the-podcast/
-link:
-  - http://airplanemo.de/blog/the-podcast
-categories:
-  - Allgemein
-format: status
+linked_list_url: http://airplanemo.de/blog/the-podcast
+format: link
 ---
 Dave Wiskus:
 

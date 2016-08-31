@@ -1,16 +1,13 @@
 ---
 id: 161
-title: 'Three Months of Apple Watch &#8211; 512pixels.net'
+title: 'Three Months of Apple Watch - 512pixels.net'
 date: 2015-08-04T15:19:01+00:00
 author: hartlco
 layout: post
 guid: https://hartl.co/?p=161
 permalink: /2015/08/04/three-months-of-apple-watch-512pixels-net/
-link:
-  - http://www.512pixels.net/blog/2015/8/review-three-months-of-apple-watch
-categories:
-  - Allgemein
-format: status
+linked_list_url: http://www.512pixels.net/blog/2015/8/review-three-months-of-apple-watch
+format: link
 ---
 Stephen Hackett:
 
