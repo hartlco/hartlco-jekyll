@@ -1,10 +1,11 @@
 ---
 # Only the main Sass file needs front matter (the dashes are enough)
 ---
-@import 'https://fonts.googleapis.com/css?family=Fira+Sans:400,700';
+@import 'https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,700';
+@import 'https://fonts.googleapis.com/css?family=Bree+Serif';
 @charset "utf-8";
 // Our variables
-$base-font-family: 'Fira Sans', Helvetica, Arial, sans-serif;
+$base-font-family: 'Source Sans Pro', Helvetica, Arial, sans-serif;
 $base-font-size:   16px;
 $base-font-weight: 400;
 $small-font-size:  $base-font-size * 0.875;
@@ -14,7 +15,7 @@ $spacing-unit:     30px;
 
 $text-color:       #222222;
 $background-color: #fefefe;
-$brand-color:      #2a7ae2;
+$brand-color:      #00d0a3;
 
 $grey-color:       #828282;
 $grey-color-light: lighten($grey-color, 40%);
@@ -45,6 +46,7 @@ body {
 }
 
 .site-header {
+    border-top: 2px solid #00d0a3;
     border-bottom: 0px;
 }
 
@@ -60,8 +62,17 @@ body {
 
 /* Posts */
 .post-link {
+    font-family: 'Bree Serif', serif;
     font-size: 1.8rem;
+    text-transform: uppercase;
 }
+
+.post-title {
+    font-family: 'Bree Serif', serif;
+    font-size: 2.2rem;
+    text-transform: uppercase;
+}
+
 .post-list > li {
     margin-bottom: 60px;
 }
