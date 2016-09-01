@@ -1,13 +1,14 @@
 ---
 # Only the main Sass file needs front matter (the dashes are enough)
 ---
+@import 'https://fonts.googleapis.com/css?family=Fira+Sans:400,700';
 @charset "utf-8";
 // Our variables
-$base-font-family: -apple-system,"Helvetica Neue", Helvetica, Arial, sans-serif;
+$base-font-family: 'Fira Sans', Helvetica, Arial, sans-serif;
 $base-font-size:   16px;
-$base-font-weight: 300;
+$base-font-weight: 400;
 $small-font-size:  $base-font-size * 0.875;
-$base-line-height: 1.6;
+$base-line-height: 1.7;
 
 $spacing-unit:     30px;
 
@@ -58,6 +59,9 @@ body {
 }
 
 /* Posts */
+.post-link {
+    font-size: 1.8rem;
+}
 .post-list > li {
     margin-bottom: 60px;
 }
@@ -83,5 +87,9 @@ body {
             margin-left:0px;
             display: inline;
         }
+    }
+
+    .post-link {
+        font-size: 1.4rem;
     }
 }
