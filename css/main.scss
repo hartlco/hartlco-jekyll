@@ -1,11 +1,10 @@
 ---
 # Only the main Sass file needs front matter (the dashes are enough)
 ---
-@import 'https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,700';
 @charset "utf-8";
 // Our variables
-$base-font-family: 'Source Sans Pro', Helvetica, Arial, sans-serif;
-$base-font-size:   16px;
+$base-font-family: 'Avenir Next', Helvetica, Arial, sans-serif;
+$base-font-size:   14px;
 $base-font-weight: 400;
 $small-font-size:  $base-font-size * 0.875;
 $base-line-height: 1.7;
@@ -30,7 +29,7 @@ $on-laptop:        800px;
 @import "minima";
 
 body {
-    font-size: 1.1rem;
+    font-size: 1.125rem;
 }
 
 .site-nav {
