@@ -6,8 +6,7 @@ author: hartlco
 layout: post
 guid: https://hartl.co/?p=171
 permalink: /2015/07/21/equal-equalapp-net/
-link:
-  - http://equalapp.net
+linked_list_url: http://equalapp.net
 categories:
   - Allgemein
 ---
