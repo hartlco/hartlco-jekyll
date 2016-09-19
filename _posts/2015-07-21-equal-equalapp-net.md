@@ -7,8 +7,6 @@ layout: post
 guid: https://hartl.co/?p=171
 permalink: /2015/07/21/equal-equalapp-net/
 linked_list_url: http://equalapp.net
-categories:
-  - Allgemein
 ---
 > Equal splits your bills, shares the costs and gives you an overview of your debts. Forget about doing the math at the end of a vacation or uneven household expenses. 
 

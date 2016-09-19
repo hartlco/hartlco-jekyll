@@ -6,10 +6,8 @@ author: hartlco
 layout: post
 guid: https://hartl.co/?p=169
 permalink: /2015/07/24/jim-dalrymples-apple-music-nightmare/
-link:
-  - http://www.loopinsight.com/2015/07/22/apple-music-is-a-nightmare-and-im-done-with-it/
-categories:
-  - Allgemein
+linked_list_url:
+ http://www.loopinsight.com/2015/07/22/apple-music-is-a-nightmare-and-im-done-with-it/
 ---
 Jim Dalrymple:
 
