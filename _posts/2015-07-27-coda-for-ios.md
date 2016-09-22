@@ -6,8 +6,7 @@ author: hartlco
 layout: post
 guid: https://hartl.co/?p=167
 permalink: /2015/07/27/coda-for-ios/
-link:
-  - https://www.panic.com/coda-ios/
+linked_list_url: https://www.panic.com/coda-ios/
 categories:
   - Allgemein
 ---

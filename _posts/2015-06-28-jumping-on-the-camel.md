@@ -6,8 +6,6 @@ author: hartlco
 layout: post
 guid: https://hartl.co/?p=178
 permalink: /2015/06/28/jumping-on-the-camel/
-categories:
-  - Allgemein
 ---
 Since the beginning almost a year ago, this blog was run on a self hosted [Ghost](https://ghost.org) instance. Ghost is extremely easy to setup up, fast and fun to use but over the time the project naturally grew quite a bit in its size, to the point where I can&#8217;t easily wrap my head around it. More and more this made me feel uncomfortable. I&#8217;m no full time JavaScript developer or server admin, so I never was happy about making small changes like own linkpost support or updating the blog cms itself. This wasn&#8217;t the situation I wanted to be in for a small side project like this blog.
 
