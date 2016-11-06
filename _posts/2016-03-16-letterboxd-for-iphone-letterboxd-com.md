@@ -6,10 +6,7 @@ author: hartlco
 layout: post
 guid: https://hartl.co/?p=94
 permalink: /2016/03/16/letterboxd-for-iphone-letterboxd-com/
-link:
-  - https://letterboxd.com/app/
-categories:
-  - Allgemein
+linked_list_url: https://letterboxd.com/app/
 format: link
 ---
 Nun gibt es auch endlich eine iPhone App für Letterboxd. Die Seite war schon immer quälend langsam für mich hier in Deutschland und ich hoffe, dass sie durch die App nun ein bisschen schneller zu bedienen ist.
