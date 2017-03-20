@@ -2,7 +2,7 @@
 author: Martin Hartl
 format: post
 layout: post
-title: Wochenrückblick #7 KW 11 2017
+title: "Wochenrückblick #7 KW 11 2017"
 date: 2017-03-20 19:23
 ---
 Leider finde ich momentan keine Zeit um ein wenig an meinen Wochenrückblicken zu schreiben.
