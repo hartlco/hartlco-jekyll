@@ -12,8 +12,8 @@
         {% endfor %}
         <a class="page-link" href="{{ "/feed.xml" | prepend: site.baseurl }}">RSS</a>
         <a class="page-link" href="https://hartl.co/apps">Apps</a>
-        <a class="page-link" href="http://twitter.com/{{ site.twitter_username }}">Twitter</a>
-        <a class="page-link" href="http://github.com/{{ site.github_username }}">Github</a>
+        <a class="page-link" href="http://twitter.com/{{ site.twitter_username }}" rel="me"/>Twitter</a>
+        <a class="page-link" href="http://github.com/{{ site.github_username }}" rel="me"/>Github</a>
 		<a class="page-link" href="https://micro.blog/hartlco" rel="me"/>Micro.blog</a>
     </nav>
   </div>
