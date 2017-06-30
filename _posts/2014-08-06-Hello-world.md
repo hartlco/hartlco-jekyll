@@ -1,7 +1,7 @@
 ---
 title: Hello World
 date: 2014-08-06T08:50:45+00:00
-author: hartlco
+author: Martin Hartl
 layout: post
 ---
 Hi,
@@ -15,3 +15,4 @@ It is my first time trying to write something meaningful in English, so feel fre
 I'm starting this site now because a lot is going to change for me in the next few weeks. My girlfriend and I are going to move to Amsterdam for half a year. I will finish my degree with an internship, so there is a lot to learn, experience and to write about.
 
 Feel free to subscribe to the [RSS-Feed](http://hartl.co/feed/) or follow me on [Twitter](http://twitter.com/hartlco).
+
