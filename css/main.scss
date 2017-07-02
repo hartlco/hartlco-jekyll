@@ -29,7 +29,7 @@ $on-laptop:        800px;
 @import "minima";
 
 body {
-    font-size: 1.125rem;
+    font-size: 1.3rem;
 }
 
 .site-nav {
@@ -74,8 +74,8 @@ body {
 @include media-query($on-palm) {
 
     body {
-        font-size: 0.875rem;
-        line-height: 1.4rem;
+        font-size: 1.0rem;
+        line-height: 1.9rem;
     }
 
     .site-nav {
