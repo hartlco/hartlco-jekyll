@@ -237,15 +237,15 @@ h4 {
   -webkit-border-radius: 100px;
   -moz-border-radius: 100px; }
 
-.ninbox {
-  background: url("../../ninbox/images/background.jpg") no-repeat center center fixed;
+.plainy {
+  background: url("../../plainy/images/background.jpg") no-repeat center center fixed;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
   color: #fff; }
 
-.ninbox img {
+.plainy img {
   padding-top: 25px; }
 
 .mentio {

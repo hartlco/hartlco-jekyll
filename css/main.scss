@@ -11,7 +11,7 @@ $base-line-height: 1.7;
 
 $spacing-unit:     30px;
 
-$text-color:       #222222;
+$text-color:       #222;
 $background-color: #fefefe;
 $brand-color:      #00d0a3;
 
@@ -20,7 +20,7 @@ $grey-color-light: lighten($grey-color, 40%);
 $grey-color-dark:  darken($grey-color, 25%);
 
 // Width of the content area
-$content-width:    720px;
+$content-width:    820px;
 
 $on-palm:          600px;
 $on-laptop:        800px;
@@ -28,8 +28,17 @@ $on-laptop:        800px;
 // Import partials from the `minima` theme.
 @import "minima";
 
+h1, h2, h3, h4 {
+  font-weight: 700;
+  font-family: "Avenir Next Condensed", Helvetica, Arial, sans-serif;
+}
+
+h3 {
+  margin-top: 3rem;
+}
+
 body {
-    font-size: 1.3rem;
+    font-size: 1.3em;
 }
 
 .site-nav {
@@ -38,19 +47,28 @@ body {
 }
 
 .site-title {
-    font-size: 3.2rem;
-    font-weight: 700;
+    font-size: 4.2rem;
     line-height: 80px;
+    font-family: "Avenir Next Condensed", Helvetica, Arial, sans-serif;
+    font-weight: 700;
+    color: $text-color;
 }
 
 .site-header {
     border-top: 2px solid #00d0a3;
     border-bottom: 0px;
+    font-family: "Avenir Next Condensed", Helvetica, Arial, sans-serif;
+    font-weight: 700;
+    color: $text-color;
 }
 
 .description {
-    font-size: 0.8rem;
-    font-weight: 700;
+    font-size: 1.3rem;
+    font-weight: 400;
+}
+
+.page-content {
+  padding: 0px;
 }
 
 /* Pagination */
@@ -60,7 +78,8 @@ body {
 
 /* Posts */
 .post-link {
-    font-size: 1.8rem;
+    color: $text-color;
+    font-size: 1.9rem;
 }
 
 .post-title {
@@ -68,7 +87,9 @@ body {
 }
 
 .post-list > li {
-    margin-bottom: 60px;
+  padding-bottom: 60px;
+  margin-top: 60px;
+  border-bottom: 2px solid #00d0a3;
 }
 
 @include media-query($on-palm) {
