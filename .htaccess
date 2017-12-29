@@ -1,0 +1,2 @@
+RewriteEngine on
+Redirect 301 /blog/feed https://hartl.co/feed.xml
