@@ -12,4 +12,4 @@ my name is Martin, 25 years old and I’m an iOS-Developer from Germany, living 
 
 This is the place where I write about stuff I’m interested in. It’s mostly about Apple, Objective-C and Swift programming, technology and everything else that comes to my mind.
 
-![]({{ site.url }}/assets/2015-near.jpg)
+![]({{ site.baseurl }}/assets/2015-near.jpg)
