@@ -1,2 +1,5 @@
 RewriteEngine on
 Redirect 301 /blog/feed https://hartl.co/feed.xml
+RewriteCond %{HTTPS} !=on
+RewriteCond %{ENV:HTTPS} !=on
+RewriteRule .* https://%{SERVER_NAME}%{REQUEST_URI} [R=301,L]
