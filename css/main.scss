@@ -92,6 +92,10 @@ body {
   border-bottom: 2px solid #00d0a3;
 }
 
+.post {
+	margin-top: 30px;
+}
+
 @include media-query($on-palm) {
 
     body {
