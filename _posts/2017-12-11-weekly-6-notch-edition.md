@@ -1,5 +1,7 @@
 ---
 author: Martin Hartl
+format: post
+layout: post
 title: "Weekly #6 - Notch edition"
 date: 2017-12-11 06:00
 ---

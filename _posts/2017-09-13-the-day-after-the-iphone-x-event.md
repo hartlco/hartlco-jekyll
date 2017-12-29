@@ -1,6 +1,8 @@
 ---
 title: The day after the iPhone X event
 author: Martin Hartl
+format: post
+layout: post
 date: 2017-09-13 20:40
 ---
 

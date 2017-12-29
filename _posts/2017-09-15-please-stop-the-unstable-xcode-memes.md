@@ -1,6 +1,8 @@
 ---
 title: Please stop the unstable Xcode memes
 date: 2017-09-15 11:20
+format: post
+layout: post
 author: Martin Hartl
 ---
 

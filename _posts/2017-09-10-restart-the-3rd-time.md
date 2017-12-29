@@ -2,6 +2,8 @@
 author: Martin Hartl
 title: Restart..the 3rd time?
 date: 2017-09-10 11:45
+format: post
+layout: post
 ---
 
 **Update** December 2017: I moved back to my old Jekyll system. I slowly migrate all the old existing micro posts to [micro.hartl.co](https://micro.hartl.co).

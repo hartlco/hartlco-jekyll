@@ -2,6 +2,8 @@
 title: Got a new Apple Watch
 date: 2017-09-24 07:30
 author: Martin Hartl
+format: post
+layout: post
 ---
 
 Yesterday I picked up my new Apple Watch 38mm Series 3 non-LTE[^1].
