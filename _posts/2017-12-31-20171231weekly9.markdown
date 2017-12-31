@@ -1,0 +1,20 @@
+---
+layout: post
+author: Martin Hartl
+title: "Weekly #9"
+date: "2017-12-31 12:37:58 +0100"
+---
+
+It‘s the last day of the year. The year ending on a Sunday and therefore the next year starting on a Monday gives me an unexplainable joy.
+I‘m not a huge party animal, especially not on New Year’s Eve, so going for a nice dinner and some drinks at home sound perfect to me.
+
+### Hello Jekyll my old friend
+I moved this site back to Jekyll. Kirby is a great and slim CMS but I was only editing the plain txt files in markdown so it literally gave me no upsides. I quickly imported the Kirby posts, fired off my deploy script and here we are again. I‘m still very happy with my Wordpress instance running on micro.hartl.co. Posting from inside the Micro.blog.app is just too convenient.
+
+### Mac Mini
+I can‘t emphasize enough how much I enjoy having a Mac Mini running as a server. I now moved even more folders full of notes to private git repos on the Mac Mini. I can access all the files and folders with git clients on the iPhone as well. If conflicts emerge, I can just resolve them fully transparent with git. My MacBook Pro and iPhone almost feel like terminal windows now. The true data always is sent to the Mac Mini. Local and online backups are automatically created constantly. If Apple would release a new Mac Mini tomorrow, chances are high I would order a pretty maxed out model.
+
+### Plainy
+I‘m currently working on a post explaining why I‘m building a plain-text editor for macOS. I realized that it should also come to iOS. I didn’t‘ even create the new project/target yet but I have some basic ideas in my mind. Can‘t wait to continue working on it.
+
+Be safe tonight and have a great 2018.
