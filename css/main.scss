@@ -89,11 +89,14 @@ body {
 .post-list > li {
   padding-bottom: 60px;
   margin-top: 60px;
-  border-bottom: 2px solid #00d0a3;
 }
 
 .post {
 	margin-top: 30px;
+}
+
+hr {
+  border: 1px solid $brand-color;
 }
 
 @include media-query($on-palm) {

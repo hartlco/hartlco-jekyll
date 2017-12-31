@@ -21,6 +21,11 @@ layout: default
           {{ post.content }}
         </div>
       </li>
+
+      {% if post != paginator.posts.last %}
+          <hr>
+      {% endif %}
+
     {% endfor %}
   </ul>
 
