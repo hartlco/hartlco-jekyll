@@ -1,0 +1,44 @@
+---
+layout: post
+title: "2017 Top"
+date: "2018-01-02 20:40:41 +0100"
+author: Martin Hartl
+---
+
+It‘s the second day of 2018 and the perfect opportunity to look back at the products that stood out to me in the past year.
+
+### Apps
+#### Things
+In the middle of 2017, I switched my complete ToDo-System from OmniFocus to Things. Before Things 3, switching Apps happened almost monthly. Since then I did not even consider switching to a different system again. The UI/UX is beautiful and the whole idea to focus on „Today“ works perfectly for me. I never feel any sense of dread or panic when looking at my todo list.
+
+#### DEVONthink
+With DEVONthink, I finally found a way to manage and sync all my private documents and files across devices and platforms. I was no longer happy to store my most sensitive data on cloud providers like Dropbox. Now everything is managed and distributed by my Mac Mini and DEVONthink.
+
+#### Apollo
+I already wrote about the Reddit client Apollo. It‘s still great and I use it every day.
+
+### Hardware
+#### iPhone X
+I love my iPhone X. The hardware feels so great, I still notice it every day. After one month of use I can‘t really think of any major problem...yes yes the control center gesture is still bad, but this will be easily fixed in the next iOS version, I hope.
+
+#### AirPods
+Technically not a 2017 product, but I got my AirPods in April this year. They are so convenient, the thought alone of using plain old wired EarPods while walking around drives me insane. No cable cluttered, no longer yanking out one EarPod because the cable got stuck somewhere. I use them almost exclusively for listening to podcasts while walking around outside or in my apartment. For this use case, the not completely mind-blowing sound quality is not an issue.
+
+#### Mac mini 2012
+Almost the opposite of a 2017 product but I have to mention my Mac Mini. Almost every day I find another use case for it. It really is now the center of my digital life. It’s almost like the 2001 [digital hub](https://www.imore.com/evolution-apples-digital-hub) story all over again.
+
+### Web
+#### Micro.blog
+I love the idea behind this service. A Twitter-like stream of micro-blog posts but where the content actually belongs to the user and not the closed-off social networks. At the moment the community is still too small and not diverse enough but I hope this will change in 2018.
+
+#### Backblaze B2
+I was using the now deprecated Amazon Drive Unlimited storage with Arq to backup all my machines. I forgot the rule, that if something is too good to be true, it’s probably a scam or will fade away soon. Amazon Drive Unlimited was an offer too good to be true, unlimited online storage for 70€ a year, and it faded it away. As an alternative, I switched my Arq backend to Backblaze B2. It’s a good deal compared to other bucket like storages out there and very reliable. Backblaze knows how to handle large amounts of data!
+
+### Lifestyle
+#### PinqPonq Cubik Medium
+I never leave the apartment with my backpack and this year I discovered this nice brand called PinqPonq. I bought the Cubik Medium, it’s reasonably small backpack but a 15” MacBook Pro 2017, an iPad, Kindle and a lot of cables fit inside in a very structured way. If my would break down now, I would immediately order a new one.  
+
+#### Bellroy Micro Sleeve
+It’s a nice super slim wallet. Same argument as for the backpack: If I would lose it or break it now, I would already have placed an Amazon order.
+
+I intentionally didn’t include any links. No affiliation or anything!
