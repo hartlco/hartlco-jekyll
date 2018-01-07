@@ -1,0 +1,19 @@
+---
+layout: post
+title: "Weekly #10"
+date: "2018-01-07 20:09:40 +0100"
+author: Martin Hartl
+---
+
+The first full week of the new year is already over. It’s just a reminder that within the blink of an eye it will be Christmas again and 2018 passed.
+
+### micro.blog
+It felt like there was a lot of activity on micro.blog this week. The reason for this might have been the combination of the now opened up registrations and the major fuckups happening on Twitter in regards to certain CEOs and world leaders. Nevertheless, it’s great! I’m also testing now an already good looking 3rd party iOS client. Please everyone, let 2018 be the year of a comeback of the open web. The year of desktop Linux can wait another year.
+
+### Upgrading ram on my Mac Mini.
+This week was the first time I opened my 2012 Mac Mini to upgrade the ram. I replaced a 2gb bar with a cheap 8gb one I bought online. I know, in a perfect world you are supposed to have the same type of ram in all the slots but so far the machine is totally fine. I might replace the other smaller one with also an 8gb one if there is no new Mac Mini after WWDC. The upgrade process itself was glorious. Unplugging the machine took longer than opening it and replacing the ram. User-upgradable hardware still is very nice, even in 2018.
+
+### The Echo Friendly
+Thanks to Apple Music I discovered the indie rock band The Echo Friendly this week. I listened to their 2017 album countless times this week. These days I don’t discover a lot of indie bands I really enjoy so this is a great exception!
+
+Until then!
