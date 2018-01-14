@@ -1,0 +1,9 @@
+---
+layout: post
+title: "Weekly #11"
+date: "2018-01-14 19:55:45 +0100"
+---
+No real Weekly post this week. It was a pretty busy working week. More importantly, I spent every free minute continuing the work on [Plainy](https://github.com/hartlco/plainy). I noticed that having a solid syntax highlighting is very important to me, so that feature got my main focus this week. There are many great open source project out there that solve this issue to 90% and I’m now working on modifying one project to fit my needs exactly. Those changes are not public yet as it’s still far from finished, but my cutting-edge build already has syntax highlighting for almost all popular languages.
+It feels great to be really excited about a personal project, especially when it’s open source.
+
+🖖
