@@ -1,0 +1,15 @@
+---
+layout: post
+title: "Weekly #13"
+date: "2018-02-04 21:25:59 +0100"
+---
+It was a matter of time: Last week was the first Weekly I skipped since I started this series of posts. I don‘t feel bad about, it‘s just how it is.
+
+### Work cycles
+I noticed my task management, file management and general productivity in my spare time comes in cycles. There are months where I‘m on to the top of Things, publish posts and write code without trying hard. Then there are the low cycles. I‘m in such a cycle right now. I think this was also the reason for the not published Weekly last week. But this must not be an excuse to slack off and just play video games in my spare time. In these low cycles, I heavily rely on my task management system, even though I have no interest in opening it by myself. It needs to push me to do the required tasks. It must not fail in such a cycle.
+After a few days or weeks, I can be certain that another productivity cycle will hit me. During this time I will prepare my system to be able to handle another low cycle without failing. I will work through my doc inbox in DevonThink and a work on all my projects again. It‘s easy to fault the task management system for such a low time, but for me, this happens independently from the Apps. It‘s just important to be aware of the way you work and plan accordingly.
+
+### Running
+Today was the first time of the year I went running. I was never good at it, but every time I tried, I really enjoyed it. I hope I will form a habit to go running at least 3 times a week.
+
+Until next week, maybe. 🦊
