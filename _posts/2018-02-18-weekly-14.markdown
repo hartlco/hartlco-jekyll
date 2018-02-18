@@ -1,0 +1,16 @@
+---
+layout: post
+title: "Weekly #14"
+date: "2018-02-18 19:25:19 +0100"
+---
+Wow, I guess it‘s a 14-day cycle now. That‘s not the plan moving forward, just a coincidence.
+
+### Jaguar
+I mentioned before that I‘m a huge car fan. This past weekend I booked a VW Golf type of car from Sixt and upgraded to a Jaguar XE. I was hyped to get in the car and drive. In my head, Jaguar was one of the super luxurious brands. The experience itself was rather disappointing. The car did not feel that sporty, the interior quality and the computer system also had nothing special to it. If the temperature dropped below 0 degrees Celsius, it would take a few minutes until the car decides to start it‘s engine, because some sensors where frozen. I think in hindsight I would have even preferred the new Opel Insignia, I drove a few months ago. Or of course a Golf GTI, or really any other car in the same category. I get it, with a car like the XE, Jaguar is appealing to a way bigger audience. It‘s competing against BMW, Audi, and Mercedes. But the brand gets devalued as well. I will no longer be super curious when I see a Jaguar drive by.
+I think this is a good example why Apple should not compete in the sub 300€ phone market or with the 50€ Ladys-in-a-tube.
+
+### Plainy
+My plain-text editor library App for the Mac, [Plainy](https://github.com/hartlco/Plainy), is still in development. I still use it many times a day and so far it works just for me. Over the last weeks, the public development was rather slow, as I was working to integrate a whole new syntax-highlighting system. I extracted the logic out of the super great open source text editor [Cot](https://coteditor.com) and integrated it in Plainy using a [git submodule](https://github.com/hartlco/CodeTextEditor). The highlighting is fast and already works for many file types. A UI, settings and some tweaks and improvements regarding Markdown will come!
+
+Until the next, I’m not giving a date here.
+🤐
