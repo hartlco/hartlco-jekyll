@@ -20,7 +20,7 @@ $grey-color-light: lighten($grey-color, 40%);
 $grey-color-dark:  darken($grey-color, 25%);
 
 // Width of the content area
-$content-width:    820px;
+$content-width:    720px;
 
 $on-palm:          600px;
 $on-laptop:        800px;
@@ -38,7 +38,7 @@ h3 {
 }
 
 body {
-    font-size: 1.3em;
+    font-size: 1.1em;
 }
 
 .site-nav {
@@ -86,18 +86,9 @@ body {
     font-size: 2.2rem;
 }
 
-.post-list > li {
-  padding-bottom: 60px;
-  margin-top: 60px;
-}
-
-.post {
-	margin-top: 30px;
-}
-
 hr {
-  border: 1px solid $brand-color;
-}
+    border: 1px solid transparent;
+  }
 
 @include media-query($on-palm) {
 
