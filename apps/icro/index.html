@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+	<meta charset="utf-8">
+	<title>Icro | a micro.blog client</title>
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta name="description" content="Icro a micro.blog client">
+	<meta name="author" content="Martin Hartl">
+	<meta name="keywords" content="App,iOS,client,micro.blog,social,network">
+
+	<link href="https://netdna.bootstrapcdn.com/bootstrap/3.1.1/css/bootstrap.min.css" rel="stylesheet">
+	<link rel="stylesheet" href="./assets/css/icro.css" type="text/css" media="screen" title="no title">
+
+	<meta name="apple-itunes-app" content="app-id=796557338, affiliate-data=11lqGj, app-argument=myURL">
+</head>
+
+
+<body>
+
+  <div class="top">
+    	<!-- Docs master nav -->
+    	<header class="navbar navbar bs-docs-nav" role="banner">
+    		<div class="container">
+    			<div class="navbar-header navbar-brand">
+    				<img src="./assets/images/appicon.png" class="appicon" width="25" alt="Icro App icon">
+    				<a href="./index.html" class="">Icro</a>
+    			</div>
+    			<ul class="nav navbar-nav navbar-right">
+    				<li><a href="https://hartl.co">Available soon.</a></li>
+    			</ul>
+    		</div>
+    	</header>
+
+    	<!-- Page content of course! -->
+    	<main class="bs-masthead" id="content" role="main">
+    		<div class="scroller1">
+    			<div class="container">
+    				<!-- Three columns of text below the carousel -->
+    				<div class="row-fluid">
+    					<div class="col-sm-6">
+    						<div class="centeredImage">
+    							<img src="./assets/images/icro-on-iphone.png" width="280" alt="Icro on iPhone">
+    						</div>
+    					</div>
+    				</div><!-- /.col-lg-4 -->
+    				<div class="col-sm-6 catchHeaer">
+    					<h1>Icro, a micro.blog client</h1>
+    					<h2>Fast and easy to use <a href="https://micro.blog">micro.blog</a> client</h2>
+    					<a href="https://hartl.co" title="Appstore Link">
+    						<div class="centeredImage">
+    							<p>Available soon</p>
+    						</div>
+    					</a>
+    				</div>
+    			</div><!-- /.row -->
+    		</div><!--scroller1 -->
+	</div><!--top-->
+	</main>
+
+<div class="footer">
+	<a href="http://hartl.co">by Martin Hartl https://hartl.co</a>
+	<a href="mailto:&#099;&#111;&#110;&#116;&#097;&#099;&#116;&#064;&#104;&#097;&#114;&#116;&#108;&#046;&#099;&#111;">Mail</a>
+</div>
+
+
+
+<!-- JS and analytics only. -->
+    <!-- Bootstrap core JavaScript
+    ================================================== -->
+    <!-- Placed at the end of the document so the pages load faster -->
+    <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+	<script src="http://netdna.bootstrapcdn.com/bootstrap/3.1.1/js/bootstrap.min.js"></script>
+    <script>
+    	!function ($) {
+    		$(function(){
+
+    			var $root = $('html, body');
+
+    			$('a').click(function() {
+    				var href = $.attr(this, 'href');
+    				$root.animate({
+    					scrollTop: $(href).offset().top
+    				}, 500, function () {
+    					window.location.hash = href;
+    				});
+    				return false;
+    			});
+    		})
+    	}(window.jQuery)
+    </script>
+
+</body>
+</html>

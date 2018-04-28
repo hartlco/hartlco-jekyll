@@ -1,0 +1,197 @@
+$primaryColor : #202429;
+$backgroundColor : #FAFFFB;
+$secondaryColor : #FA9777;
+$black : #000000;
+$lightGrey : #e1e1e1;
+$font-body : Avenir, sans-serif;
+$font-heading : Avenir, sans-serif ;
+
+
+.top {
+	background-image: linear-gradient(-180deg, rgba(250,151,119,0.15) 0%, rgba(250,255,251,0.00) 100%);
+}
+
+body {
+	background-color: $backgroundColor;
+}
+
+.scroller1 {
+	width:100%;
+	margin-top:-20px;
+	max-width: 960px;
+	margin-left:auto;
+	margin-right: auto;
+	h2 {
+		font-family: $font-heading;
+		color: $primaryColor;
+		text-align: center;
+		font-size:1.2em;
+		margin-top:25px;
+		margin-bottom:45px;
+		line-height: 180%
+	}
+
+}
+
+.scroller2 {
+	width:100%;
+	background-color:$backgroundColor;
+	max-width: 960px;
+	margin-left:auto;
+	margin-right: auto;
+	margin-top: 50px;
+	h2 {
+		padding-top:20px;
+		color:$primaryColor;
+		font-family:$font-body;
+	}
+
+	p {
+		font-family: $font-heading;
+		color:$primaryColor;
+		font-size:1.0em;
+		line-height:160%;
+		max-width: 280px;
+		margin-left: auto;
+		margin-right: auto;
+	}
+}
+
+.container {
+	width:100%;
+}
+
+.centeredImage {
+	margin-top:20px;
+	margin-bottom:20px;
+	text-align:center;
+	display: block;
+}
+
+.footer {
+	clear:left;
+	text-align: center;
+	background-color: $backgroundColor;
+	padding-top: 100px;
+	padding-bottom: 10px;
+}
+
+.footer a:link,:visited {
+	color:$primaryColor;
+	padding-left:10px;
+	padding-right:10px;
+}
+
+.footer a:hover {
+	color:$secondaryColor;
+	text-decoration:none;
+}
+
+.appicon {
+	margin-top:-5px;
+	margin-right:5px;
+	text-align:center;
+}
+
+h1 {
+	padding-top:50px;
+	text-align:center;
+	line-height:150%;
+	font-size:3.0em;
+	color:$primaryColor;
+	font-weight: bolder;
+	font-family: $font-body;
+}
+
+h2 {
+	font-family: $font-heading;
+}
+
+.heightPBox {
+	height:50px;
+}
+
+.navbar-brand {
+
+	a {
+		font-family: $font-heading;
+		color:$black;
+	}
+
+	a:hover {
+		color:$secondaryColor;
+		text-decoration:none;
+	}
+
+}
+
+.navbar-nav {
+	padding-left:50px;
+	font-family: $font-heading;
+	text-align:right;
+	color:$black;
+
+	a {
+		color:$black;
+	}
+
+	a:hover {
+		color:$secondaryColor;
+		text-decoration:none;
+		background-color: rgba(238, 238, 238, 0.37);
+	};
+
+}
+
+p {
+	font-family: $font-body;
+}
+
+em {
+	font-weight:bold;
+	color:#00A682;
+}
+
+.catchHeaer {
+	padding-right:100px;
+}
+
+@media only screen and (max-width: 1200px) {
+
+	.firstText {
+		font-size: 2.0em;
+	}
+
+}
+
+@media only screen and (max-width: 992px) {
+	h1 {
+		font-size:2.0em;
+	}
+
+	.firstText {
+		font-size: 1.6em;
+	}
+
+	.headline {
+		font-size: 3em;
+	}
+
+}
+
+
+@media only screen and (max-width: 768px) {
+	h1 {
+		margin-top:0px;
+		padding-top: 10px;
+	}
+
+		.catchHeaer {
+		padding-right:15px;
+	}
+
+	.heightPBox {
+	height:30px;
+}
+
+}
