@@ -22,7 +22,6 @@ twitter_username: hartlco
 github_username:  hartlco
 disqus:
     shortname: hartlco
-google_analytics: UA-83800719-1
 
 # Build settings
 gems: [jekyll-paginate]
