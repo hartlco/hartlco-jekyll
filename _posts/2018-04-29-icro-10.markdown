@@ -1,0 +1,70 @@
+---
+layout: post
+title: "Icro 1.0"
+date: "2018-04-29 09:02:36 +0200"
+---
+
+![Waiting for review](http://share.hartl.co/Icro-waiting-for-review.png)
+
+I just submitted version 1.0 of my new App “ Icro” to App review. Icro is a 3rd party micro.blog client. It’s heavily inspired by popular Twitter clients like Tweetbot and Twitterrific. The first lines of code for this App were written over a year ago. At first I worked on it only a few days. After gaining interest in the whole micro.blog community again, I picked up the project again at the end of March this year.
+
+## Minimal features
+The feature list for version 1.0 is pretty minimal. It has the functionality to post and reply plain text to micro.blog and self-hosted Wordpress sites. It gives the possibility to view the different available streams:
+
+- The timeline with posts and mentions from people you follow
+- Mentions
+- Your favorited posts
+- The micro.blog discover section
+- Conversations
+
+It also has native views for a list of people a user follows and users profile section. Icro caches the timeline to up to 400 posts and saves the reading position.
+
+I decided to cut the features to this bare minimum in order to ship as soon as possible. I was tired of having projects lying around in an “almost useable” state.
+The feature backlog for upcoming version is already packed!
+
+## TestFlight
+This was the first time I used Apple TestFlight for a private App with a testing group > 5. The last time I shipped a 1.0 was in 2013, back then TestFlight was still an independent company waiting to be acquired by Apple. 😉
+After 4 builds, 70 people tried out the beta. This was an incredibly valuable and rewarding experience. The first feedback blew me away and helped to fill the backlog for upcoming versions.
+But prioritising those feature requests is not easy. Everyone uses micro.blog slightly different and has different needs. I need to figure out what my vision for the App will be in the long run and then decide on what I should focus next.
+With this, I want to thank all the testers!
+
+## Code
+All my own code in Icro is written in Swift 4.1. It follows an easy MVVM pattern without Rx. The binding between the viewModel and the view is done using simple blocks.
+This is the `cloc` output without dependencies:
+
+```
+      58 text files.
+      57 unique files.                              
+      14 files ignored.
+
+github.com/AlDanial/cloc v 1.74  T=0.35 s (124.8 files/s, 9169.4 lines/s)
+-------------------------------------------------------------------------------
+Language                     files          blank        comment           code
+-------------------------------------------------------------------------------
+Swift                           34            512            194           2264
+JSON                             9              0              0            260
+C/C++ Header                     1              0              3              0
+-------------------------------------------------------------------------------
+SUM:                            44            512            197           2524
+-------------------------------------------------------------------------------
+```
+
+As mentioned earlier, I use many 3rd party dependencies in Icro. I work full-time as an iOS engineer, and there is only so much motivation and time left to rebuild components that other developers already built and open-sourced.  Every single one of those dependencies would be easy to replace with either another 3rd party dependency, an official Apple API or implement myself. I already have plans to replace some dependencies with own solutions. For example, the “pod” I use to display full-screen images.
+If anyone is curios, this is the `podfile`:
+
+```
+use_frameworks!
+
+target 'Icro' do
+	pod 'Kanna'
+    pod 'SDWebImage/GIF'
+    pod 'FontAwesome.swift'
+    pod 'wpxmlrpc'
+    pod 'SwiftMessages'
+    pod 'Lightbox'
+    pod 'DTCoreText'
+    pod 'KeychainAccess'
+    pod 'AcknowList'
+end
+
+```
