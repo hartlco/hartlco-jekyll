@@ -90,6 +90,12 @@ hr {
     border: 1px solid transparent;
   }
 
+img {
+	max-height: 600px;
+	display: block; 
+	margin-top: 10px;
+}
+
 @include media-query($on-palm) {
 
     body {
