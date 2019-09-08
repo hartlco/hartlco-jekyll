@@ -8,7 +8,7 @@ guid: https://hartl.co/?page_id=61
 ---
 Hi,
 
-my name is Martin Hartl, 26 years old and I’m an iOS and macOS Developer from Germany, living in Berlin. You can have a look at my Apps at <a href="http://hartl.co/apps/" target="_blank">hartl.co/apps</a>.
+my name is Martin Hartl, 27 years old and I’m an iOS and macOS Developer from Germany, living in Berlin. You can have a look at my Apps at <a href="http://hartl.co/apps/" target="_blank">hartl.co/apps</a>.
 
 This is the place where I write about stuff I’m interested in. It’s mostly about Apple and Apps, Swift programming, technology and everything else that comes to my mind.
 

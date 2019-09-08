@@ -3,19 +3,19 @@
 ---
 @charset "utf-8";
 // Our variables
-$base-font-family: 'Avenir', Helvetica, Arial, sans-serif;
+$base-font-family: 'Avenir Next', Helvetica, Arial, sans-serif;
 $base-font-size:   14px;
-$base-font-weight: 500;
+$base-font-weight: 400;
 $small-font-size:  $base-font-size * 0.875;
 $base-line-height: 1.7;
 
 $spacing-unit:     30px;
 
-$text-color:       #222;
+$text-color:       #111;
 $background-color: #fefefe;
 $brand-color:      #00d0a3;
 
-$grey-color:       #828282;
+$grey-color:       #222;
 $grey-color-light: lighten($grey-color, 40%);
 $grey-color-dark:  darken($grey-color, 25%);
 
@@ -54,6 +54,10 @@ body {
     color: $text-color;
 }
 
+.site-title:visited {
+    color: $text-color;
+}
+
 .site-header {
     border-top: 2px solid #00d0a3;
     border-bottom: 0px;
@@ -86,6 +90,10 @@ body {
     font-size: 2.2rem;
 }
 
+.post-meta {
+    font-weight: 700;
+}
+
 hr {
     border: 1px solid transparent;
   }
@@ -93,7 +101,12 @@ hr {
 img {
 	max-height: 600px;
 	display: block; 
-	margin-top: 10px;
+    margin-top: 10px;
+    margin: auto;
+}
+
+.site-footer {
+    border-top: 0px;
 }
 
 @include media-query($on-palm) {
