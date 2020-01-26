@@ -25,7 +25,7 @@ disqus:
 
 # Build settings
 gems: [jekyll-paginate]
-paginate: 10
+paginate: 15
 paginate_path: "page:num"
 markdown: kramdown
 theme: minima
