@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: hartl.co
 email: hi@hartl.co
-description: I’m Martin Hartl, iOS Developer from Berlin
+description: I’m Martin Hartl, iOS Engineer from Berlin
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://hartl.co" # the base hostname & protocol for your site
 twitter_username: hartlco
