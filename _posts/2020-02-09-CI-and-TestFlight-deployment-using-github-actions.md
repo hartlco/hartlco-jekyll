@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "CI and TestFlight deployments using GitHub Actions"
-date: "2020-02-09 19:06"
+date: "2020-02-09 18:06"
 ---
 
 A typical post of the category: "Better write a blog post about it, otherwise I will forget how to make it work"
