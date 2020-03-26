@@ -28,6 +28,6 @@ gems: [jekyll-paginate]
 paginate: 15
 paginate_path: "page:num"
 markdown: kramdown
-theme: jekyll-theme-minimal
+theme: minima
 sass:
     style: compressed
